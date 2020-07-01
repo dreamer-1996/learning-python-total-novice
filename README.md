@@ -1,4 +1,3 @@
 # learning-python-total-novice
-Mostly follows Automate the boring stuff python
-It is for personal use
-I will later make it for public use
+This project is for git and python.
+I am using automate the boring stuff
