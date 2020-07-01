@@ -1,3 +1,4 @@
+#Example of function
 def printName(name):
     print ("Hi my name is " + name)
     return len(name)
